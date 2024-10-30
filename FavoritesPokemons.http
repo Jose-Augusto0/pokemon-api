@@ -1,0 +1,6 @@
+@FavoritesPokemons_HostAddress = http://localhost:5132
+
+GET {{FavoritesPokemons_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
