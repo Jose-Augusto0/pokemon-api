@@ -126,3 +126,4 @@ C:\Users\josea\Desktop\estudos\FavoritesPokemons\FavoritesPokemons\obj\Debug\net
 C:\Users\josea\Desktop\estudos\FavoritesPokemons\FavoritesPokemons\obj\Debug\net8.0\FavoritesPokemons.pdb
 C:\Users\josea\Desktop\estudos\FavoritesPokemons\FavoritesPokemons\obj\Debug\net8.0\FavoritesPokemons.genruntimeconfig.cache
 C:\Users\josea\Desktop\estudos\FavoritesPokemons\FavoritesPokemons\obj\Debug\net8.0\ref\FavoritesPokemons.dll
+C:\Users\josea\Desktop\estudos\FavoritesPokemons\FavoritesPokemons\obj\Debug\net8.0\FavoritesPokemons.sourcelink.json

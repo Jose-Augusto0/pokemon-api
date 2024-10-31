@@ -28,6 +28,12 @@ namespace FavoritesPokemons.Controllers
             FavoriteModel favorites = await _favoriteRepositorio.Send(favoriteMolde);
             return Ok(favorites);
         }
+        [HttpDelete("{id}")]
+        public async Task<ActionResult<FavoriteModel>> Remove(int id)
+        {
+            bool apagado = await _favoriteRepositorio.Remove(id);
+            return Ok(apagado);
+        }
 
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FavoritesPokemons")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f45c9cdfc99ea7fd9b7911ddbfb099f6dd404860")]
 [assembly: System.Reflection.AssemblyProductAttribute("FavoritesPokemons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FavoritesPokemons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
